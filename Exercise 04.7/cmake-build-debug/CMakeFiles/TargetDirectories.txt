@@ -1,0 +1,3 @@
+D:/QtWinSoft/Solved Exercises/C Exercises/Exercises 04/Exercise 04.7/cmake-build-debug/CMakeFiles/Exercise_04_7.dir
+D:/QtWinSoft/Solved Exercises/C Exercises/Exercises 04/Exercise 04.7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/QtWinSoft/Solved Exercises/C Exercises/Exercises 04/Exercise 04.7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
