@@ -1,3 +1,0 @@
-D:/QtWinSoft/Solved Exercises/C Exercises/Exercises 12/Exercises 12 - Files/Exercise 12.2.a)/cmake-build-debug/CMakeFiles/Exercise_12_2_a_.dir
-D:/QtWinSoft/Solved Exercises/C Exercises/Exercises 12/Exercises 12 - Files/Exercise 12.2.a)/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/QtWinSoft/Solved Exercises/C Exercises/Exercises 12/Exercises 12 - Files/Exercise 12.2.a)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
